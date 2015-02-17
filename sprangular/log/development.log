@@ -1,0 +1,339 @@
+
+
+Started GET "/" for ::1 at 2015-02-12 15:49:43 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /usr/local/lib/ruby/gems/2.1.0/gems/railties-4.2.0.rc2/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-12 15:50:32 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 236ms (Views: 235.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-e916b149c91f6a123128e002c6638758.js?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/assets/ng-app/app-c1db117877a9baf6f2807d154bd1f568.js?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 15:50:33 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:03:57 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 102ms (Views: 102.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ng-app/app-2eafea2516255e140b45e10dc0446588.js?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/assets/application-7d09d00aaed700455468a67f1c76656f.js?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:03:57 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:11:14 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 158ms (Views: 158.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ng-app/app-700f25c6647d3329a35f34347de0c7a0.js?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/assets/application-5af3d7ecf8714e0ef81ead12725ea2fb.js?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:11:14 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:12:53 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 77ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/assets/application-0978ac1230292b926cf726d4019fb362.js?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/assets/ng-app/app-bc0a471ded0a866d5cc10abc7e02e20d.js?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:12:53 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:12:57 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/assets/ng-app/app-bc0a471ded0a866d5cc10abc7e02e20d.js?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/assets/application-0978ac1230292b926cf726d4019fb362.js?body=1" for ::1 at 2015-02-12 16:12:58 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:12:59 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 57ms (Views: 56.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/assets/ng-app/app-bc0a471ded0a866d5cc10abc7e02e20d.js?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/assets/application-0978ac1230292b926cf726d4019fb362.js?body=1" for ::1 at 2015-02-12 16:12:59 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:13:23 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 112ms (Views: 111.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-1a0e8b2db4bc7c3d319d9f5b68ebc722.js?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/assets/ng-app/app-0ae2be130aeeb6516524bea37268025b.js?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:13:24 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:14:57 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 81ms (Views: 81.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ng-app/app-fa24fb1dc76615f7af17ba17d511fdef.js?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/assets/application-6781c1a7d1b30b07666f0fed727d1a70.js?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:14:57 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:15:43 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 101ms (Views: 100.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ng-app/app-09c0690e6ae6d892ac0eef67a82fd059.js?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/assets/application-c43ff9285d20ca7e1673ff91fb15b0dc.js?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:15:44 -0800
+
+
+Started GET "/" for ::1 at 2015-02-12 16:16:03 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 39ms (Views: 38.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/assets/ng-app/app-09c0690e6ae6d892ac0eef67a82fd059.js?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/assets/application-c43ff9285d20ca7e1673ff91fb15b0dc.js?body=1" for ::1 at 2015-02-12 16:16:03 -0800
+
+
+Started GET "/" for ::1 at 2015-02-17 11:39:22 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 350ms (Views: 349.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-17 11:39:22 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 38ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/ng-app/app-ae4e82c1be93a3db815294fdf15966c2.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/application-48684941bfede08731f703b3008af759.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-17 11:39:23 -0800
+
+
+Started GET "/" for ::1 at 2015-02-17 11:39:45 -0800
+Processing by ApplicationController#index as HTML
+  Rendered application/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 75ms (Views: 74.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-5c8e9a5f2706a5ae36c57c9b8b1693b8.js?body=1" for ::1 at 2015-02-17 11:39:45 -0800
+
+
+Started GET "/assets/application-ae414b6ea0e4a4740434755dde0abfe8.js?body=1" for ::1 at 2015-02-17 11:39:45 -0800
+
+
+Started GET "/assets/angular/angular-e2f203c789988904ffb1305e2fc5bf00.js?body=1" for ::1 at 2015-02-17 11:39:45 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-17 11:39:45 -0800
+
+
+Started GET "/assets/ng-app/app-af1dd8d710306b484f8d04120c6ba100.js?body=1" for ::1 at 2015-02-17 11:39:45 -0800
+
+
+Started GET "/assets/jquery_ujs-c5940c7532618d551ab8f85cea97d045.js?body=1" for ::1 at 2015-02-17 11:39:45 -0800
+
+
+Started GET "/assets/angular-ui-router/release/angular-ui-router-b6295dd4e1e9a06a37887425e31a0aee.js?body=1" for ::1 at 2015-02-17 11:39:45 -0800
